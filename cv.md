@@ -97,7 +97,7 @@ The opportunity to work in this position will expand the horizon, meet new peopl
 
 Uladzimir Miadzinski, Software Engineer, EPAM Systems 
 
-*Email: webmedinsky@gmail.com* 
+*Email:* webmedinsky@gmail.com 
 
-*Skype: medinsky_skype* 
+*Skype:* medinsky_skype 
 
