@@ -1,0 +1,60 @@
+.wrapper {
+    background-color: #CBEEF1;
+}
+
+main {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding-left:15px;
+    padding-right: 15px;
+}
+
+.left-block {
+    width: 40%;
+}
+
+.right-block {
+    width: 60%;
+}
+
+.inner {
+    margin:100px auto;
+}
+
+.left-block .inner {
+    
+    max-width: 390px;
+}
+
+.right-block .inner {
+    border-left: 1px solid black;
+    max-width: 500px;
+    padding-left: 100px;
+}
+
+ul {
+    padding-inline-start: 18px;
+}
+
+h1 {
+    font-family: 'Trocchi', serif;
+    font-size: 45px;
+}
+
+.profession {
+    font-size: 30px;
+}
+
+h2, p, ul, span {
+    font-family: 'Quicksand', sans-serif;
+}
+
+span {
+    font-weight: 700;
+}
+
+img {
+    width: 390px;
+}
+
